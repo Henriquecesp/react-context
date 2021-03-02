@@ -1,4 +1,4 @@
-<h2 align="center">React Context API</h2>
+<h2 align="center">React Context API para INICIANTES</h2>
 
 ---
 
@@ -17,7 +17,9 @@ O foco é para o público que já entende o básico de React e quer aprender est
 Nos exemplos do vídeo mostro como gerenciar a autenticação do usuário, seja por API, fazendo chamadas de login e acesso, ou por gerenciamento de estado local, utilizando o LocalStorage do browser, sendo possível também gerencia um tema global para aplicação, idioma e muito mais!
 Em breve farei vídeos mostrando a diferença desta ferramenta e do Redux.
 
-## [Confira o video no youtube!](https://youtu.be/H6bCSzxxiNc)
+[Confira o video no youtube!](https://youtu.be/H6bCSzxxiNc)
+
+[![React Context API para INICIANTES](https://j.gifs.com/OMQlMR.gif)](https://www.youtube.com/watch?v=H6bCSzxxiNc)
 
 ---
 
