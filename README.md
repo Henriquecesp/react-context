@@ -2,7 +2,7 @@
 
 ---
 
-<img src=".github/cover.png" alt="Thumbnail Youtube">
+[![Thumbnail Youtube](.github/cover.png)](https://www.youtube.com/watch?v=H6bCSzxxiNc)
 
 ## :information_source: Sobre
 
@@ -19,7 +19,7 @@ Em breve farei vídeos mostrando a diferença desta ferramenta e do Redux.
 
 <h2 align="center">React Context API com TypeScript</h2>
 
-<img src="https://img.youtube.com/vi/f1JzE_h62nE/maxresdefault.jpg" alt="Thumbnail Youtube">
+[![Thumbnail Youtube](https://img.youtube.com/vi/f1JzE_h62nE/maxresdefault.jpg)](https://www.youtube.com/watch?v=f1JzE_h62nE)
 
 ## :information_source: Sobre
 
@@ -39,6 +39,7 @@ Neste vídeo, você aprenderá a desenvolver aplicações web usando o React e T
 Comece sua jornada para dominar o React, a Context API e o TypeScript agora mesmo!
 
 [Confira o video no youtube!](https://youtu.be/f1JzE_h62nE)
+
 [Branch do Projeto](https://github.com/Henriquecesp/react-context/tree/typescript)
 
 ---
