@@ -2,12 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src=".github/logo.png" alt="CespDev">
-</p>
-
----
-
 <img src=".github/cover.png" alt="Thumbnail Youtube">
 
 ## :information_source: Sobre
@@ -20,6 +14,32 @@ Em breve farei vídeos mostrando a diferença desta ferramenta e do Redux.
 [Confira o video no youtube!](https://youtu.be/H6bCSzxxiNc)
 
 [![React Context API para INICIANTES](https://j.gifs.com/OMQlMR.gif)](https://www.youtube.com/watch?v=H6bCSzxxiNc)
+
+---
+
+<h2 align="center">React Context API com TypeScript</h2>
+
+<img src="https://img.youtube.com/vi/f1JzE_h62nE/maxresdefault.jpg" alt="Thumbnail Youtube">
+
+## :information_source: Sobre
+
+Neste vídeo, você aprenderá a desenvolver aplicações web usando o React e TypeScript, com a Context API para o gerenciamento de estado. Aprenda desde o básico até aplicações mais avançadas que você pode aplicar diretamente no mercado de trabalho.
+
+👉 Aqui está o que você vai encontrar neste tutorial:
+
+- Histórico e atualizações do React
+- Configuração do ambiente de desenvolvimento
+- Entendendo a Context API
+- Uso de TypeScript no React
+- Exemplo prático
+- Dicas para aplicações reais no mercado de trabalho
+
+💡 Não importa se você é um iniciante no React ou se já tem alguma experiência, este vídeo tem algo para todos. Deixe-me ajudá-lo a se tornar um desenvolvedor React de sucesso e a se destacar no mercado de trabalho!
+
+Comece sua jornada para dominar o React, a Context API e o TypeScript agora mesmo!
+
+[Confira o video no youtube!](https://youtu.be/f1JzE_h62nE)
+[Branch do Projeto](https://github.com/Henriquecesp/react-context/tree/typescript)
 
 ---
 
