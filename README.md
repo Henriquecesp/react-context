@@ -2,7 +2,6 @@
 
 ---
 
-[![Thumbnail Youtube](.github/cover.png)](https://www.youtube.com/watch?v=H6bCSzxxiNc)
 
 ## :information_source: Sobre
 
@@ -11,15 +10,9 @@ O foco é para o público que já entende o básico de React e quer aprender est
 Nos exemplos do vídeo mostro como gerenciar a autenticação do usuário, seja por API, fazendo chamadas de login e acesso, ou por gerenciamento de estado local, utilizando o LocalStorage do browser, sendo possível também gerencia um tema global para aplicação, idioma e muito mais!
 Em breve farei vídeos mostrando a diferença desta ferramenta e do Redux.
 
-[Confira o video no youtube!](https://youtu.be/H6bCSzxxiNc)
-
-[![React Context API para INICIANTES](https://j.gifs.com/OMQlMR.gif)](https://www.youtube.com/watch?v=H6bCSzxxiNc)
-
 ---
 
 <h2 align="center">React Context API com TypeScript</h2>
-
-[![Thumbnail Youtube](https://img.youtube.com/vi/f1JzE_h62nE/maxresdefault.jpg)](https://www.youtube.com/watch?v=f1JzE_h62nE)
 
 ## :information_source: Sobre
 
@@ -37,8 +30,6 @@ Neste vídeo, você aprenderá a desenvolver aplicações web usando o React e T
 💡 Não importa se você é um iniciante no React ou se já tem alguma experiência, este vídeo tem algo para todos. Deixe-me ajudá-lo a se tornar um desenvolvedor React de sucesso e a se destacar no mercado de trabalho!
 
 Comece sua jornada para dominar o React, a Context API e o TypeScript agora mesmo!
-
-[Confira o video no youtube!](https://youtu.be/f1JzE_h62nE)
 
 [Branch do Projeto](https://github.com/Henriquecesp/react-context/tree/typescript)
 
